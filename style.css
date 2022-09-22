@@ -1,0 +1,105 @@
+body {
+    background-color: grey;
+}
+
+
+
+
+.timer {
+    height: 70px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.score {
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+}
+
+.omega {
+    display: flex;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 45px;
+    color: wheat;
+}
+
+
+.ans {
+    font-size: 30px;
+}
+
+.question {
+    background-color: grey;
+}
+
+button {
+padding:  32px 16px;
+font-size: 50px;
+
+}
+
+.answerom {
+    display: flex;
+    align-items: center;
+}
+
+.anseron {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#myBtn {
+    background-color: greenyellow;
+    color: black;
+    margin-left: 610px;
+    margin-top: 100px;
+    padding: 50px 50px 50px 50px;
+    box-shadow: 5px 5px black;
+}
+
+#myBtn:hover {
+    color:white;
+    border-style: solid;
+}
+
+#myBtn2 {
+    background-color: yellow;
+    color: black;
+    margin-left: 610px;
+    margin-top: 100px;
+    padding: 50px 50px 50px 50px;
+    box-shadow: 5px 5px black;
+}
+
+#myBtn2:hover {
+    color:white;
+    border-style: solid;
+}
+
+
+#myBtn3 {
+    background-color: red;
+    color: black;
+    margin-left: 610px;
+    margin-top: 100px;
+    padding: 50px 50px 50px 50px;
+    box-shadow: 5px 5px black;
+}
+
+
+#myBtn3:hover {
+    color:white;
+    border-style: solid;
+}
+
+
+
